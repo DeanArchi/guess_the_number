@@ -24,3 +24,7 @@ A simple command-line game where the player tries to guess a randomly generated 
    python main.py
 
 4. Follow the prompts in the terminal to guess the number!
+
+## Example Usage
+
+![image](https://github.com/user-attachments/assets/726db693-6da3-4948-9592-78607a0a4edf)
